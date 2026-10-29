@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/chat_client.dir/link.d CMakeFiles/chat_client.dir/src/client/main.cpp.o CMakeFiles/chat_client.dir/src/client/chat_client.cpp.o CMakeFiles/chat_client.dir/src/shared/crypto.cpp.o -o chat_client  /usr/lib/libssl.so /usr/lib/libcrypto.so

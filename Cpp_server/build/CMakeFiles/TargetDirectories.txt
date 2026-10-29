@@ -1,0 +1,4 @@
+/home/dominik/UNOB/CPP/projekt/code/build/CMakeFiles/chat_server.dir
+/home/dominik/UNOB/CPP/projekt/code/build/CMakeFiles/chat_client.dir
+/home/dominik/UNOB/CPP/projekt/code/build/CMakeFiles/edit_cache.dir
+/home/dominik/UNOB/CPP/projekt/code/build/CMakeFiles/rebuild_cache.dir
